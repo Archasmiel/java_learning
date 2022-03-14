@@ -17,6 +17,8 @@ public class Main {
             factorial *= i;
         }
 
+        System.out.println(factorial);
+
         System.out.println("Factorial is " + factorial(5));
         System.out.println("Factorial is " + factorial(6));
         System.out.println("Factorial is " + factorial(7));
